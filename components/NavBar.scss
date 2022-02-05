@@ -1,0 +1,16 @@
+.navbar {
+	padding: 1em 0;
+	background-color: orange;
+	color: white;
+
+	.container {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+}
+
+.navbar__title {
+	font-size: 1.5rem;
+	font-weight: bold;
+}

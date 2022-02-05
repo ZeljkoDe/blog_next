@@ -1,6 +1,9 @@
 {
   "name": "blog_next",
   "private": true,
+  "engines": {
+    "node": "16.13"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
